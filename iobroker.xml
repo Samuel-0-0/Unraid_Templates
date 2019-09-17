@@ -35,7 +35,7 @@
   <Category>HomeAutomation:</Category>
   <WebUI>http://[IP]:[PORT:8990]</WebUI>
   <TemplateURL/>
-  <Icon>https://raw.githubusercontent.com/Samuel-0-0/Unraid_Templates/master/images/iobroker.png</Icon>
+  <Icon>https://raw.githubusercontent.com/Samuel-0-0/Unraid_Templates/master/icons/iobroker.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
